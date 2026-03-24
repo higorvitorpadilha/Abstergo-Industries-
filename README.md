@@ -24,6 +24,7 @@ A solução foi pensada para substituir infraestrutura local cara por serviços 
 
 
 
+
 ## ☁️ Serviços AWS Utilizados
 
 ### 📦 Amazon S3
@@ -82,7 +83,7 @@ A solução foi pensada para substituir infraestrutura local cara por serviços 
 
 O relatório completo do projeto está disponível neste repositório:
 
-📄 `relatorio_aws.docx`
+📄[relatorio_aws.docx](https://github.com/user-attachments/files/26222729/relatorio_aws.docx)
 
 
 
